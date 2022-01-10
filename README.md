@@ -1,0 +1,1 @@
+# Cataldi.Util.Messaging.AWS
